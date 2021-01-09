@@ -5,3 +5,6 @@ created a file in remote desktop
 Second line added in the remote desktop.
 
 Changed extension to text file
+
+
+Edited in the vi on local repository
