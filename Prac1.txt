@@ -3,3 +3,5 @@ Hi there
 created a file in remote desktop
 
 Second line added in the remote desktop.
+
+Changed extension to text file
